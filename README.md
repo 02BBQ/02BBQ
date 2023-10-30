@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-[![SexMachine's GitHub stats](https://github-readme-stats.vercel.app/api?username=02BBQ)](https://github.com/anuraghazra/github-readme-stats)
+![Sex Machine's GitHub stats](https://github-readme-stats.vercel.app/api?username=02BBQ&show_icons=true&theme=synthwave)
 
 ## I'm pretty good shaking ass
