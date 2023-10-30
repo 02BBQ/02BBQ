@@ -1,4 +1,4 @@
-### Hi there 👋
+# 🤑WHAT'S UP **NIGGER**
 
 <!--
 **02BBQ/02BBQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<div align=center>
+	<p>💫 Languages 💫</p>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C#&logoColor=white" />    
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+</div>
+
+<br>
+[![SexMachine's GitHub stats](https://github-readme-stats.vercel.app/api?username=02BBQ)](https://github.com/anuraghazra/github-readme-stats)
+
+## I'm pretty good shaking ass
