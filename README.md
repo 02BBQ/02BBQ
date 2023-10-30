@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Sex Machine's GitHub stats](https://github-readme-stats.vercel.app/api?username=02BBQ&show_icons=true&theme=synthwave)
 <br>
 <div align=center>
 	<p>💫 Languages 💫</p>
@@ -26,6 +27,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-![Sex Machine's GitHub stats](https://github-readme-stats.vercel.app/api?username=02BBQ&show_icons=true&theme=synthwave)
+
 
 ## I'm pretty good shaking ass
