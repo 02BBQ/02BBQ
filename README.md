@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </div>
 
-## I'm pretty good shaking ass
+## I'm pretty good at shaking ass
