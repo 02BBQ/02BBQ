@@ -1,29 +1,56 @@
-# 🤑It's **BBQ**
+# 🤑 It's **BBQ**
 
 <!--
-**02BBQ/02BBQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ Welcome to my GitHub profile! ✨
+Here’s a little about me and what I’m working on!
 -->
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=02BBQ&show_icons=true&theme=synthwave)
-<br>
-<div align=center>
-	<p>💫 Languages 💫</p>
-</div>
+
 <div align="center">
-	<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white" />
+	<h2>💫 Languages 💫</h2>
+	<p>Languages</p>
+	<img src="https://img.shields.io/badge/LuaU-2C2D72?style=flat&logo=Lua&logoColor=white" />
+	<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C#&logoColor=white" />    
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
 </div>
 
-## I'm pretty good at shaking ass
+<div align="center">
+	<p>Development Tools</p>
+	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" />
+	<img src="https://img.shields.io/badge/Roblox Studio-000000?style=flat&logo=roblox&logoColor=white" />
+	<img src="https://img.shields.io/badge/Unreal Engine-313131?style=flat&logo=unreal-engine&logoColor=white" />
+</div>
+
+<div align="center">
+	<p>Creative & Productivity Tools</p>
+	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
+	<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" />
+	<img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" />
+	<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working with **Unity** and **Roblox Studio** 
+- 🎮 Interested in game development, VFX Design
+- 🌱 Expanding my knowledge in **Unreal Engine**
+
+---
+
+## 🔗 Contact
+
+- [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/718512184174313472)
+- 📧 Email: bbqcute63@gmail.com
+
+---
+
+⚡ MING
+
+---
