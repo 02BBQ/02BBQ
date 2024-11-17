@@ -45,12 +45,17 @@ Here’s a little about me and what I’m working on!
 ---
 
 ## 🔗 Contact
-
 - [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/718512184174313472)
 - 📧 Email: bbqcute63@gmail.com
 
 ---
 
 ⚡ MING
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/02BBQ"
+  width="600"
+  height="300"
+/>
+</a>
 ---
