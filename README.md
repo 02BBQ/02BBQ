@@ -51,6 +51,7 @@ Here’s a little about me and what I’m working on!
 ---
 
 ⚡ MING
+<br>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/02BBQ"
