@@ -1,14 +1,11 @@
-# 🤑 It's **BBQ**
+# 🤑 Hi there! its BBQ
 
 <!--
 ✨ Welcome to my GitHub profile! ✨
 Here’s a little about me and what I’m working on!
 -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=02BBQ&show_icons=true&theme=synthwave)
-
 <div align="center">
-	<h2>💫 Languages 💫</h2>
+	<h2>💫 Tech Stack  💫</h2>
 	<p>Languages</p>
 	<img src="https://img.shields.io/badge/LuaU-2C2D72?style=flat&logo=Lua&logoColor=white" />
 	<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white" />
@@ -50,15 +47,12 @@ Here’s a little about me and what I’m working on!
 
 ---
 
-## ⚡ MING
-<br>
-<div align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/02BBQ"
-  width="600"
-  height="300"
+  width="60"
+  height="30"
 />
 </a>
-</div>
+
 ---
