@@ -3,7 +3,7 @@
 <!--
 ✨ Welcome to my GitHub profile! ✨
 Here’s a little about me and what I’m working on!
--->
+
 <div align="center">
 	<h2>💫 Tech Stack  💫</h2>
 	<p>Languages</p>
@@ -32,7 +32,7 @@ Here’s a little about me and what I’m working on!
 </div>
 
 ---
-
+-->
 ## 👨‍💻 About Me
 
 - 🔭 Currently working with **Unity** and **Roblox Studio** 
