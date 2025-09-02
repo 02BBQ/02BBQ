@@ -50,8 +50,8 @@ Here’s a little about me and what I’m working on!
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/02BBQ"
-  width="60"
-  height="30"
+  width="300"
+  height="150"
 />
 </a>
 
