@@ -1,4 +1,4 @@
-<!--
+
 <div align="center">
 	<img src="https://img.shields.io/badge/LuaU-2C2D72?style=flat&logo=Lua&logoColor=white" />
 	<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white" />
@@ -22,20 +22,4 @@
 	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 </div>
 
----
--->
-
----
-
-## 🔗 Contact
-- [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/718512184174313472)
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/02BBQ"
-  width="300"
-  height="150"
-/>
-</a>
-
----
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/718512184174313472): gyat
